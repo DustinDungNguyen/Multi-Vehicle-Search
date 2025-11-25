@@ -1,39 +1,3 @@
-
-Đã mở cuộc trò chuyện. 1 thư đã đọc. 
-
-Chuyển đến nội dung
-Sử dụng Gmail bằng trình đọc màn hình
-
-36 trong tổng số 476
-Neighbor Technical Project
-Hộp thư đến
-
-Sean Bird
-<sean@neighbor.com>
-Tệp đính kèm
-17:23 2 thg 10, 2025
-đến tôi
-
-Có vẻ như thư này được viết bằng Tiếng Anh
-Hello,
-
- 
-
-Following your phone interview, we’d like to proceed to the next phase of the process. See the attached README.md for details.
-
- 
-
-Thank you and we're looking forward to reviewing your submission.
-
- 
-
-Sean Bird
-
- 2 tệp đính kèm
-  •  Do Gmail quét
-
-
-
 # Multi-Vehicle Search Take-Home Challenge
 
 ## Prompt
